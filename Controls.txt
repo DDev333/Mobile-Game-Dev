@@ -1,0 +1,8 @@
+WASD - to move character 
+LMB - to shoot
+RMB - to aim
+L - to drop sphere
+K - to drop cube
+M - to enable bg music
+N - to disable bg music
+TAB - for more controls
